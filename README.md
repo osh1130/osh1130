@@ -22,7 +22,10 @@ A junior full time working testing engineer who enjoys self learning and playing
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
 **Technologies**
- <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
+ 
+
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
+
 
 <img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />  <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" /> <img src="https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square" alt="Ant Design" /> <img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" /> 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
