@@ -6,7 +6,7 @@
 A junior full time working testing engineer who enjoys self learning and playing with some fun stuff.
 
 - ❤ Lifelong learner
-- 📝 interested in cocding
+- 📝 interested in coding
 - ✉️ Ping me by (vivizhao401@gmail.com)
 - 👀 leetcode (https://leetcode.com/vivizhao401)
 
